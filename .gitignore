@@ -1,0 +1,7 @@
+.idea
+data
+
+.tool-versions
+lockfile.lock
+logs.txt
+rss_urls.txt
