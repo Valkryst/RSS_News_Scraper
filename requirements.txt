@@ -21,7 +21,7 @@ requests-file==1.5.1
 sgmllib3k==1.0.0
 six==1.16.0
 soupsieve==2.4.1
-tinysegmenter==0.3
+tinysegmenter==0.4
 tldextract==3.4.4
 tqdm==4.65.0
 urllib3==2.0.3
