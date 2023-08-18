@@ -1,7 +1,7 @@
 beautifulsoup4==4.12.2
 certifi==2023.7.22
 charset-normalizer==3.2.0
-click==8.1.6
+click==8.1.7
 cssselect==1.2.0
 feedfinder2==0.0.4
 feedparser==6.0.10
