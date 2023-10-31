@@ -8,7 +8,7 @@ This script can be used to build a local database of news articles by crawling R
 
 ## Usage
 
-1. Download `main.py` into a folder. Preferably, create a new folder for this purpose.
+1. Download `main.py` and `requirements.txt` into a folder. Preferably, create a new folder for this purpose.
 2. Install the required packages by running `pip install -r requirements.txt`.
 3. Create a `rss_urls.txt` file and enter the RSS feed URLs you want to crawl. Each URL should be on a new line.
 4. Run `python main.py` to start the crawler, or create a cron job to run it periodically.
