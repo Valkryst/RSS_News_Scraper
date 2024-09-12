@@ -15,7 +15,7 @@ nltk==3.9.1
 Pillow==10.4.0
 python-dateutil==2.9.0.post0
 PyYAML==6.0.2
-regex==2024.7.24
+regex==2024.9.11
 requests==2.32.3
 requests-file==2.0.0
 sgmllib3k==1.0.0
