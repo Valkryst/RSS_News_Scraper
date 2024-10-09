@@ -1,6 +1,6 @@
 beautifulsoup4==4.12.3
 certifi==2024.8.30
-charset-normalizer==3.3.2
+charset-normalizer==3.4.0
 click==8.1.7
 cssselect==1.2.0
 feedfinder2==0.0.4
