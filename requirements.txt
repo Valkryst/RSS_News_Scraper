@@ -9,7 +9,7 @@ filelock==3.17.0
 idna==3.10
 jieba3k==0.35.1
 joblib==1.4.2
-lxml==5.3.0
+lxml==5.3.1
 newspaper3k==0.2.8
 nltk==3.9.1
 Pillow==11.1.0
